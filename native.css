@@ -134,7 +134,7 @@
 /*---------------------------------------------------------Navbar und Homepage-------------------------------------------------------*/
 
 
-.navbar-waldtriathlon{
+.navbar{
   background-color: #f78a1c !important;
   height: 3em;
   text-align: center;
@@ -148,7 +148,7 @@
   padding: 0.7em;
   }
 
-.navbar-waldtriathlon a{
+.navbar a{
   color: black;
   padding-left: 1.3em;
   padding-right: 1.3em;
@@ -323,7 +323,7 @@ h4{
 /*---------------------------------------------------------------------------------------------------------------------------------*/
 /*Styling Footer alle Unterseiten und Homepage*/
 .footer{
-  background-color: #bf4c0c;
+  background-color: cream;
   text-align: center;
   font-weight: 400;
 
@@ -341,7 +341,7 @@ h4{
 }
 
 .footer a{
-  color: white;
+  color: black;
   font-weight: 400;
   padding-left: 0.5em;
   padding-right: 0.5em;
