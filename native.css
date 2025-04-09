@@ -92,13 +92,13 @@
   margin-bottom: auto;
 }
 
-.menu-ausschreibung {
+.menu-aboutme {
 
   @media (max-width: 575.99px) { 
     display: none;
   }
 }
-.menu-zeitplan {
+.menu-CV {
   @media (max-width: 575.99px) { 
     display: none;
   }
@@ -106,7 +106,7 @@
     display: none;
   }
 }
-.menu-streckenpläne {
+.menu-werke {
   @media (max-width: 575.99px) { 
     display: none;
   }
@@ -115,7 +115,7 @@
     display: none;
   }
 }
-.menu-helfer {
+.menu-impressum {
   @media (max-width: 575.99px) { 
     display: none;
   }
