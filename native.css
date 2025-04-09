@@ -36,6 +36,7 @@
   
   body{
     font-family: 'Barlow';
+    background-color: black;
   }
 
   footer{
@@ -46,7 +47,7 @@
 /*-----------------------------------------------------------Logo Responsiv----------------------------------------------------------------*/
 /*-----------------------------------------------------------Logo Responsiv----------------------------------------------------------------*/
 /*-----------------------------------------------------------Logo Responsiv----------------------------------------------------------------*/
-#WALDTRIATHLON{
+/*#WALDTRIATHLON{
   @media (min-width: 1400px) {
     width: 28em;
   }
@@ -66,7 +67,7 @@
   padding-top: 0.5rem;
   padding-bottom: 1rem;
 }
-
+*/
 /*-------------------------------------------------------------BURGER MENU----------------------------------------------------------------*/
 /*-------------------------------------------------------------BURGER MENU----------------------------------------------------------------*/
 /*-------------------------------------------------------------BURGER MENU----------------------------------------------------------------*/
@@ -93,7 +94,6 @@
 }
 
 .menu-aboutme {
-
   @media (max-width: 575.99px) { 
     display: none;
   }
@@ -135,7 +135,7 @@
 
 
 .navbar{
-  background-color: #fae0bb !important;
+  background-color: #FAE0BB !important;
   height: 3em;
   text-align: center;
 
@@ -164,6 +164,7 @@
   }
 }
 
+/*
 #banner-collage{
   width: 100%;
   height: auto;
@@ -223,11 +224,11 @@ h2{
   background-image: url(../img/pool.jpg);
   background-size: cover;
   
-  /*
+  
   column-count: 2;
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;*/
+  justify-content: center;
 
   @media (min-width: 1400px) {
     height: 50em;
@@ -255,10 +256,10 @@ h2{
   }
 
 }
-
+*/
 /*---------------------------------------------------------------------------------------------------------------------------------*/
 /*Styling Überschriften Unterseiten*/
-
+/*
 h3 {
     color: white;
     font-weight: 600;
@@ -270,14 +271,14 @@ h4{
   font-weight: 600;
   font-size: 11pt;
 }
-
+*/
 /*---------------------------------------------------*//*unterseite impressum*//*------------------------------------------------------*/
 /*---------------------------------------------------*//*unterseite impressum*//*------------------------------------------------------*/
 /*---------------------------------------------------*//*unterseite impressum*//*------------------------------------------------------*/
 
 .impressum{
-    background-image: url('../img/impressum.jpg');
-
+    /*background-image: url('../img/impressum.jpg');*/
+    background-color: black;
 
     @media (min-width: 1400px) {
       background-position: center 580px;
